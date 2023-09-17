@@ -1,0 +1,119 @@
+---
+object: card
+id: 0d6abdaa-7be5-48a1-acc9-b3cba4c10619
+oracle_id: 2496fe9a-9fd4-4c52-b5ca-39d6333eb333
+multiverse_ids: []
+tcgplayer_id: 78436
+name: Vampire
+lang: en
+released_at: '2012-02-03'
+uri: https://api.scryfall.com/cards/0d6abdaa-7be5-48a1-acc9-b3cba4c10619
+scryfall_uri: https://scryfall.com/card/tdka/2/vampire?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg?1561756647
+  normal: https://cards.scryfall.io/normal/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg?1561756647
+  large: https://cards.scryfall.io/large/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg?1561756647
+  png: https://cards.scryfall.io/png/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.png?1561756647
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg?1561756647
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0d6abdaa-7be5-48a1-acc9-b3cba4c10619.jpg?1561756647
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Vampire
+oracle_text: Lifelink
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Lifelink
+all_parts:
+- object: related_card
+  id: 0d6abdaa-7be5-48a1-acc9-b3cba4c10619
+  component: token
+  name: Vampire
+  type_line: Token Creature — Vampire
+  uri: https://api.scryfall.com/cards/0d6abdaa-7be5-48a1-acc9-b3cba4c10619
+- object: related_card
+  id: 27bb371f-d49f-41bd-bbe0-d5e1e2067e36
+  component: combo_piece
+  name: Sorin, Lord of Innistrad
+  type_line: Legendary Planeswalker — Sorin
+  uri: https://api.scryfall.com/cards/27bb371f-d49f-41bd-bbe0-d5e1e2067e36
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5b70a0fa-6968-4e29-b9a1-62d3be626b65
+set: tdka
+set_name: Dark Ascension Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/5b70a0fa-6968-4e29-b9a1-62d3be626b65
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atdka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tdka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0d6abdaa-7be5-48a1-acc9-b3cba4c10619/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2496fe9a-9fd4-4c52-b5ca-39d6333eb333&unique=prints
+collector_number: '2'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Peter Mohrbacher
+artist_ids:
+- c8f27311-46a5-4eaf-9b2e-d660ed1db649
+illustration_id: 33097826-edad-4fe8-aede-4246e17fe4c4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '2.90'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vampire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78436?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
